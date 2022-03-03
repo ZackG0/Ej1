@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Boletos</string>
+    <string name="cantidad">Ingresa la cantidad de boletos deseada</string>
+    <string name="tipo">Selecciona el tipo de boleto deseado</string>
+    <string name="vip">Zona VIP ($900.00)</string>
+    <string name="luneta">Luneta ($600.00)</string>
+    <string name="prefer">Preferente ($400.00)</string>
+    <string name="general">General ($200.00)</string>
+    <string name="comprar">Realizar compra</string>
+</resources>
